@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "proxyquire": "^2.1.3",
+    "proxyquire": "^2.1.3", 
     "seedrandom": "^3.0.5"
   }
 }
